@@ -126,9 +126,10 @@
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
 <br>
 <p align="center">
-  <a href="www.linkedin.com/in/geovanni-cadorin-031842287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-</p
+  <a href="https://www.linkedin.com/in/geovanni-cadorin-031842287" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
  
 <br>
 
